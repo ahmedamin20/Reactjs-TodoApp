@@ -1,0 +1,14 @@
+li {
+  list-style: none;
+}
+.btns-container {
+  width: 20%;
+}
+.btns-container button {
+  width: calc(90% / 3);
+}
+button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
